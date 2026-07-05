@@ -28,6 +28,9 @@ export default async function HomePage() {
           Welcome to the homepage for nwdarren. This section is driven by Sanity content and
           shows featured artists from the studio collection.
         </p>
+        <p>
+          <a href="/about">About us</a>
+        </p>
       </section>
 
       <section className="grid" aria-label="Artists">
